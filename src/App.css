@@ -1,5 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Proxima+Nova');
+
+
+.proxima-font{
+	font-family: 'proxima-nova', sans-serif;
+}
+
 .App {
-  text-align: center;
+  min-height: 90vh;
 }
 
 .App-logo {

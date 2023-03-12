@@ -1,0 +1,73 @@
+.content {
+    height: 50px;
+    font-family: "proxima-nova";
+    font-size: 33px;
+    line-height: 40px;
+    color: #d5eee6;
+}
+
+.content__container__list {
+    margin-top: 0;
+    padding-left: 0px;
+    text-align: left;
+    list-style: none;
+    -webkit-animation-name: change;
+    -webkit-animation-duration: 14s;
+    -webkit-animation-iteration-count: infinite;
+    animation-name: change;
+    animation-duration: 14s;
+    animation-iteration-count: infinite;
+}
+
+.content__container {
+    font-weight: 600;
+    overflow: hidden;
+    height: 44px;
+    padding: 5px 220px;
+}
+
+.content__container__list__item {
+    line-height: 40px;
+    margin: 0;
+}
+
+.hometitle {
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    color: #000000;
+}
+
+
+
+.text-allign-vertical {
+    margin-top: calc(40vh - 56px) !important;
+}
+
+.projects-text-title {
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    color: #292A2C;
+    text-align: left;
+}
+
+.projects-text-subtitle{
+    font-family: 'Proxima Nova';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: left;
+    
+}
+
+.projects-text-tags{
+    font-family:"Proxima Nova";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 12px;
+    text-align: left;
+}
